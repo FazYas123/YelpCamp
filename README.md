@@ -31,7 +31,7 @@ YelpCamp is a web application that allows users to view, add, review, and edit c
     ```
 
 3. Set up environment variables:
-- Create a `.env` file in the root directory.
+- Create a `.env` file in the a new "vars" folder, in the root directory.
 - Add the following environment variables:
 
   ```
