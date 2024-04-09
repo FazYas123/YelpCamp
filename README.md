@@ -55,6 +55,8 @@ YelpCamp is a web application that allows users to view, add, review, and edit c
 
 My project has been deployed using render, if you want to access it for yourself, follow this link [Yasin's YelpCamp](https://yelpcamp-sh53.onrender.com)
 
+Note - this link will only work when I am active on render, as it's free tier version states "Your free instance will spin down with inactivity, which can delay requests by 50 seconds or more."
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
