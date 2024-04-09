@@ -18,7 +18,7 @@ YelpCamp is a web application that allows users to view, add, review, and edit c
 - **EJS (Embedded JavaScript):** A templating language used for generating HTML markup with JavaScript.
 - **Cloudinary:** A cloud-based image and video management service used for image upload and storage.
 
-## Getting Started
+## Getting Started ( If you want to recreate the project )
 
 1. Clone the repository:
    ```
@@ -50,6 +50,10 @@ YelpCamp is a web application that allows users to view, add, review, and edit c
 
 
 5. Access the application in your web browser at `http://localhost:portNumber`.
+
+## Seeing the live project
+
+My project has been deployed using render, if you want to access it for yourself, follow this link [Yasin's YelpCamp](https://yelpcamp-sh53.onrender.com)
 
 ## License
 
